@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1591131380 source:c:\develop\cpp-dev\data-struct\sll\sll-food\main.cpp
+	"header-list.h"
+
+1591130695 c:\develop\cpp-dev\data-struct\sll\sll-food\header-list.h
+	<iostream>
+
+1591131079 source:c:\develop\cpp-dev\data-struct\sll\sll-food\implement-list.cpp
+	"header-list.h"
+
